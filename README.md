@@ -1,6 +1,6 @@
 <!-- @format -->
 
-# Runnng nginx loadbalancer
+# Running nginx loadbalancer
 1. project folder.
 3. Creating node app image `docker build -t node-app .`
 4. Run `docker-compose up` command
